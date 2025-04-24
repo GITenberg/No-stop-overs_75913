@@ -1,0 +1,26 @@
+_repo: No-stop-overs_75913
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Thompson, John A.
+    gutenberg_agent_id: '58215'
+    url: http://www.gutenberg.org/2009/agents/58215
+description: ''
+gutenberg_issued: '2025-04-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75913'
+language: en
+pgterms:marc904: https://archive.org/details/argosy-v-203-n-03-1929-05-04
+pgterms:marc905: 20250405165247thompson
+pgterms:marc906: '1929'
+pgterms:marc907: US
+production_note: Roger Frank and Sue Clark
+publication_note: '  $aNew York, NY :$bFrank A. Munsey Company, $c1929.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: No stop-overs
+url: http://www.gutenberg.org/ebooks/75913

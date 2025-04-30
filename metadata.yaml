@@ -1,11 +1,16 @@
 _repo: No-stop-overs_75913
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75913-h/images/cover.jpg
 creator:
   author:
     agent_name: Thompson, John A.
     gutenberg_agent_id: '58215'
     url: http://www.gutenberg.org/2009/agents/58215
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75913#No-stop-overs
 gutenberg_issued: '2025-04-19'
 gutenberg_type: Text
 identifiers:
